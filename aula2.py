@@ -31,5 +31,7 @@
 # linha = ' {} tem {} anos de idade'.format(nome,idade)
 # print(linha)
 
-numero = float(input("digite suaidade"))
-print(numero)
+numero1 = int(input("digite um numero: "))
+numero2 = int(input("digite outro numero: "))
+soma = numero1 + numero2
+print(soma)
